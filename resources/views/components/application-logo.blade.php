@@ -1,0 +1,1 @@
+<img src="{{ asset('crm_logo_pwa.png') }}" {{ $attributes }} alt="{{ config('app.name') }}">

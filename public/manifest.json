@@ -1,0 +1,16 @@
+{
+    "name": "NoSeMeEscapa CRM",
+    "short_name": "NoSeMeEscapa",
+    "start_url": "/admin",
+    "display": "standalone",
+    "background_color": "#FDFBF7",
+    "theme_color": "#065F46",
+    "icons": [
+        {
+            "src": "/crm_logo_pwa.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
