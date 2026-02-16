@@ -1,9 +1,29 @@
 # No Se Me Escapa - CRM Minimalista & Humano (B2B SaaS)
 
-![crm-nosemeescapa](https://github.com/user-attachments/assets/53c8e8a3-6e6f-492e-8982-ced6ef30afaa)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/53c8e8a3-6e6f-492e-8982-ced6ef30afaa" alt="index No Se Me Escapa crm">
+</p>
 
 **No Se Me Escapa** es una plataforma SaaS diseñada específicamente para profesionales independientes y pequeñas empresas de servicios que necesitan un sistema de seguimiento de clientes sin complicaciones. El enfoque principal es la **empatía y la privacidad**, permitiendo que el profesional se centre en la relación humana mientras el sistema gestiona los datos de forma segura.
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/73356e7d-12b6-43a4-b013-dcd74d81e3fa" width="400px" alt="CRM Logo PWA">
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/034b07ea-ea73-4a8b-af26-d70515599f6a" width="400px" alt="Dashboard">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/e6570976-1c32-40d1-909d-e6518a6a170e" width="400px" alt="detalles Clients">
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/65109f77-d8ac-4db4-957a-be085edd2157" width="400px" alt="WhatsApp Integration">
+    </td>
+  </tr>
+</table>
 
 ---
 
