@@ -66,9 +66,12 @@ La privacidad es el pilar central de este CRM. Hemos implementado múltiples cap
 *   **Admin Panel**: Filament 3
 *   **Frontend**: Livewire, Alpine.js y Tailwind CSS
 *   **Base de Datos**: Sistema híbrido (System DB para usuarios + Tenant DBs en SQLite)
-*   **Entorno de Desarrollo & IA**: Este proyecto ha sido construido utilizando **Antigravity IDE**. Se ha empleado en asistencia por IA para el diseño de la arquitectura multitenancy, la optimización de consultas SQL y la implementación de la capa de encriptación de datos.
+*   **Entorno de Desarrollo & IA**: Antigravity IDE
 *   **Build Tool**: Vite
 
 ##
 ---
-*Desarrollado con ❤️ para profesionales que cuidan a las personas.*
+*Desarrollado con ❤️ para profesionales que cuidan a las personas con las que trabajan.*
+
+# autor 
+[Eccedev](https://github.com/Eccedev)
